@@ -45,9 +45,9 @@ BibTeX entry:
   doi={10.1109/TGRS.2025.3529996}}
 ```
  
-## Licensing
+Licensing
 --
-Copyright (C) 2025 Bobo Xi
+Copyright (C) 2025 Bobo Xi, Yun Zhang
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
