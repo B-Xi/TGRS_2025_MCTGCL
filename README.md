@@ -1,6 +1,6 @@
 MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning, TGRS, 2025.
 ==
-[Bobo Xi](https://b-xi.github.io/), [Yun Zhang](https://ieeexplore.ieee.org/author/37087032130)[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), Tie Zheng, Xunfeng Zhao, Haitao Xu, Changbin Xue, [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
+[Bobo Xi](https://b-xi.github.io/), [Yun Zhang](https://ieeexplore.ieee.org/author/37087032130), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), Tie Zheng, Xunfeng Zhao, Haitao Xu, Changbin Xue, [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 ***
 
 Code for the paper: [MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning](https://ieeexplore.ieee.org/document/10843260).
