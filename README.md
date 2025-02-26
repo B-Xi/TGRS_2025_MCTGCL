@@ -26,21 +26,21 @@ If you find this dataset helpful, please kindly cite:
 --
 If you find this code helpful, please kindly cite:
 
-[1] B. Xi, Y. Zhang, J. Li, T. Zheng, X. Zhao, H. Xu, C. Xue, Y. Li, and J. Chanussot, "MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, 2025, doi: 10.1109/TGRS.2025.3529996.
+[1] B. Xi, Y. Zhang, J. Li, T. Zheng, X. Zhao, H. Xu, C. Xue, Y. Li, and J. Chanussot, "MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-14, 2025, doi: 10.1109/TGRS.2025.3529996.
 
 Citation Details
 --
 BibTeX entry:
 ```
 @ARTICLE{TGRS_2025_MCTGCL,
-  author={Xi, Bobo and Zhang, Yun and Li, Jiaojiao and Zheng, Tie and Zhao, Xunfeng and Xu, Haitao and Xue, Changbin and Li, Yunsong and Chanussot, Jocelyn},
+ author={Xi, Bobo and Zhang, Yun and Li, Jiaojiao and Zheng, Tie and Zhao, Xunfeng and Xu, Haitao and Xue, Changbin and Li, Yunsong and Chanussot, Jocelyn},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning}, 
+  title={MCTGCL: Mixed CNN–Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Transformers;Feature extraction;Mars;Minerals;Contrastive learning;Hyperspectral imaging;Convolutional neural networks;Training;Earth;Data mining;Mars exploration;information-enhanced attention;lightweight;graph contrastive learning},
+  pages={1-14},
+  keywords={Transformers;Feature extraction;Mars;Minerals;Contrastive learning;Hyperspectral imaging;Convolutional neural networks;Training;Earth;Data mining;Graph contrastive learning;information-enhanced attention;lightweight;Mars exploration},
   doi={10.1109/TGRS.2025.3529996}}
 ```
  
